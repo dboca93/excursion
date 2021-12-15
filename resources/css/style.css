@@ -18,9 +18,11 @@
 }
 
 .link-a {
-    
     color: aquamarine;
     font-size: 16px;
-    
-    
+}
+.main-display-section {
+    width: 100%;
+    padding-top: 30px;
+    text-align: center;
 }
