@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.main-header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.anchor-base {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.link-a {
+    
+    color: aquamarine;
+    font-size: 16px;
+    
+    
+}
